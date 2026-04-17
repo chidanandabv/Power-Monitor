@@ -106,8 +106,4 @@ If you have a better or more efficient approach for low-cost power failure detec
 
 This project is open-source and free to use.
 
----
 
-## 👨‍💻 Author
-
-Developed as a practical solution for real-world system administration challenges in budget-constrained environments.
